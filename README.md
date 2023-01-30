@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello and welcome! 👋
+
+My coding life started out with Excel and the wonderful world of macros. I have years of on-the-job experience with VBA, SQL, and database operations. I love working through mental challenges, and also reverse-engineering others' solutions and adapting them for my own purposes. As former linguist, I've already adopted an affection for life-long learning. I enjoy coding because I know I will always remain a student, no matter how many years I study.
 
 <!--
 **bad-boogl/bad-boogl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
